@@ -6,6 +6,7 @@ permalink: /research/ar_eligibility
 date: 2022
 venue: 'American Economic Journal: Economic Policy (conditionally accepted)'
 paperurl: 'http://jenna-anders.github.io/files/ar_eligibility.pdf'
+coauthor: Charlie Rafkin
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 > We study the U.S. rollout of eligibility expansions in the Supplemental Nutrition Assistance Program.

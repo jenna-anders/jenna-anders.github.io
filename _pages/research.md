@@ -14,5 +14,3 @@ author_profile: true
 {% for post in site.research reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-I'm testing this.
