@@ -3,7 +3,7 @@ title: "The Welfare Effects of Eligibility Expansions: Theory and Evidence from 
 collection: research
 permalink: /research/ar_eligibility
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2022
+date: 11-01-2022
 venue: 'American Economic Journal: Economic Policy (conditionally accepted)'
 paperurl: 'http://jenna-anders.github.io/files/ar_eligibility.pdf'
 coauthor: Charlie Rafkin
