@@ -5,12 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<p style="font-size:20px; "> <a href="http://jenna-anders.github.io/files/ar_eligibility.pdf" target="_blank">"The Welfare Effects of Eligibility Expansions: Theory and Evidence from SNAP"</a> (with Charlie Rafkin) </p>
+<p style="font-size:14px; "> Conditionally accepted at American Economic Journal: Economic Policy </p>
 
-{% include base_path %}
+<p style="font-size:12px; "> We study the U.S. rollout of eligibility expansions in the Supplemental Nutrition Assistance Program. Using administrative data from the U.S. Department of Agriculture, we show that expanding eligibility raises enrollment among the inframarginal (always-eligible) population. Using an online experiment and an administrative survey, we find evidence that information frictions, rather than stigma, drive the new take-up. To interpret our findings, we develop a general model of the optimal eligibility threshold for welfare programs with incomplete take-up. Given our empirical results and certain modeling assumptions, the SNAP eligibility threshold is lower than optimal.</p>
 
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}

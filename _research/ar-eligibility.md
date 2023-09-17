@@ -11,4 +11,4 @@ coauthor: Charlie Rafkin
 ---
 > We study the U.S. rollout of eligibility expansions in the Supplemental Nutrition Assistance Program.
 
-[Download paper here](http://academicpages.github.io/files/ar_eligibility.pdf)
+[Download paper here](http://jenna-anders.github.io/files/ar_eligibility.pdf)
