@@ -83,7 +83,7 @@ author:
   name             : "Jenna Anders"
   avatar           : "me-lowerquality.jpg"
   bio              : "Ph.D. Candidate in Economics, Harvard University"
-  location         : "Location"
+  location         : "Cambridge, M.A."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
