@@ -12,4 +12,4 @@ I am a Ph.D. candidate in Economics at Harvard University. My research interests
 
 I received my B.A. in economics and environmental studies from Brown University in 2016.
 
-<p style="text-align:center; margin-top:100px"><img src="images/fortwitter.jpeg" alt="Test"> </p>
+<p style="text-align:center; margin-top:100px"><img src="images/fortwitter.jpeg" alt="Test" width="300" height="auto"> </p>
