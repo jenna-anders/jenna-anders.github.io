@@ -15,15 +15,15 @@ I received my B.A. in economics and environmental studies from Brown University 
 ### References 
 
 
-<strong>Nathaniel Hendren</strong><br><a href="mailto:nhendren@mit.edu">nhendren@mit.edu</a>
+<strong>Nathaniel Hendren</strong><br><a href="mailto:nhendren@mit.edu">nhendren@mit.edu</a>{: .notice}
 
 
 
-<p><strong>Jesse Shapiro</strong><br><a href="mailto:jesse_shapiro@fas.harvard.edu">jesse_shapiro@fas.harvard.edu</a></p>
+<p><strong>Jesse Shapiro</strong><br><a href="mailto:jesse_shapiro@fas.harvard.edu">jesse_shapiro@fas.harvard.edu</a></p>{: .notice}
 
 
 
-<p><strong>Lawrence Katz</strong><br><a href="mailto:lkatz@harvard.edu">lkatz@harvard.edu</a></p>
+<p><strong>Lawrence Katz</strong><br><a href="mailto:lkatz@harvard.edu">lkatz@harvard.edu</a></p>{: .notice}
 
 <br>
 
