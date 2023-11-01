@@ -15,7 +15,7 @@ I received my B.A. in economics and environmental studies from Brown University 
 ### References 
 
 
-<strong>Nathaniel Hendren</strong><br><a href="mailto:nhendren@mit.edu">nhendren@mit.edu</a>{: .notice}
+<p><strong>Nathaniel Hendren</strong><br><a href="mailto:nhendren@mit.edu">nhendren@mit.edu</a></p>{: .notice}
 
 
 
