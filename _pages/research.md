@@ -31,7 +31,7 @@ author_profile: true
 
 <p></p>
 
-<p style="font-size:20px; margin-top:20px; ">"Superfund Sites and Cancer Incidence" </p>
+<p style="font-size:20px; margin-top:40px; ">"Superfund Sites and Cancer Incidence" </p>
 <p style="font-size:14px; margin-top:-20px;  margin-bottom:-20px;">  In Progress </p>
 
 > <p style="font-size:12px;"> Communities around state and federal Superfund sites are often concerned about increased risk of cancer from exposure to environmental contamination, but there is little causal evidence on this risk. Using data on public environmental remediation projects, I study how exposures to environmental contaminants relate to cancer incidence. Long disease latency periods mean that comparing outcomes before and after site cleanup is insufficient, so for identification, I borrow insights from the toxicology and epidemiology literatures on the specific diseases associated with each contaminant. I compare outcomes across sites, using only years before remediation begins, where the identifying variation is the specific contaminant involved in each site.</p>
