@@ -20,12 +20,6 @@ author_profile: true
 
 > <p style="font-size:12px;"> We study the U.S. rollout of eligibility expansions in the Supplemental Nutrition Assistance Program. Using administrative data from the U.S. Department of Agriculture, we show that expanding eligibility raises enrollment among the inframarginal (always-eligible) population. Using an online experiment and an administrative survey, we find evidence that information frictions, rather than stigma, drive the new take-up. To interpret our findings, we develop a general model of the optimal eligibility threshold for welfare programs with incomplete take-up. Given our empirical results and certain modeling assumptions, the SNAP eligibility threshold is lower than optimal.</p>
 
-<p style="font-size:20px; margin-top:20px; ">"Environmental Contamination and Cancer Incidence" </p>
-<p style="font-size:14px; margin-top:-20px;  margin-bottom:-20px;">  In Progress </p>
-
-> <p style="font-size:12px;"> Communities around state and federal Superfund sites are often concerned about increased risk of cancer from exposure to environmental contamination, but there is little causal evidence on this risk. Using data on public environmental remediation projects, I study how exposures to environmental contaminants relate to cancer incidence. Long disease latency periods mean that comparing outcomes before and after site cleanup is insufficient, so for identification, I borrow insights from the toxicology and epidemiology literatures on the specific diseases associated with each contaminant. I compare outcomes across sites, using only years before remediation begins, where the identifying variation is the specific contaminant involved in each site.</p>
-
-
 <p style="font-size:20px; margin-top:20px ">"Social Disconnection and the Missing Market" (with Amanda Pallais) </p>
 <p style="font-size:14px; margin-top:-20px;  margin-bottom:-20px;">  In Progress </p>
 
@@ -34,3 +28,9 @@ author_profile: true
 
 <p style="font-size:20px; margin-top:20px; ">"Welfare Analyses of Firm-Based Government Policies" (with Valerie Chuang, Nathaniel Hendren, and Eric Zwick)</p>
 <p style="font-size:14px; margin-top:-20px;  margin-bottom:-20px;">  In Progress </p>
+
+<p style="font-size:20px; margin-top:20px; ">"Superfund Sites and Cancer Incidence" </p>
+<p style="font-size:14px; margin-top:-20px;  margin-bottom:-20px;">  In Progress </p>
+
+> <p style="font-size:12px;"> Communities around state and federal Superfund sites are often concerned about increased risk of cancer from exposure to environmental contamination, but there is little causal evidence on this risk. Using data on public environmental remediation projects, I study how exposures to environmental contaminants relate to cancer incidence. Long disease latency periods mean that comparing outcomes before and after site cleanup is insufficient, so for identification, I borrow insights from the toxicology and epidemiology literatures on the specific diseases associated with each contaminant. I compare outcomes across sites, using only years before remediation begins, where the identifying variation is the specific contaminant involved in each site.</p>
+
