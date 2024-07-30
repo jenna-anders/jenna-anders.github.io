@@ -50,7 +50,7 @@ redirect_from:
 
 <br>
 
-
+default.html
 {% if page.js %}
 <script>
 let slideIndex = 0;
