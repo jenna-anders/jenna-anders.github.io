@@ -20,7 +20,7 @@ redirect_from:
 
 <br>
 
-<p style="text-align:center; margin-top:100px"><img src="images/fortwitter.jpeg" alt="Test" width="300" height="auto"> </p>
+<p style="text-align:center; margin-top:100px"><img src="../images/fortwitter.jpeg" alt="Test" width="300" height="auto"> </p>
 
 <br>
 
