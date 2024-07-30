@@ -38,19 +38,19 @@ redirect_from:
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <img src="images/fortwitter.jpeg" style="width:30%">
-  <div class="text">Caption Text</div>
+  <div class="text">Andover, MA</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
   <img src="images/bird.jpeg" style="width:30%">
-  <div class="text">Caption Two</div>
+  <div class="text">Upland Sandpiper</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
   <img src="images/yosemite.jpg" style="width:30%">
-  <div class="text">Caption Three</div>
+  <div class="text">Yosemite National Park</div>
 </div>
 
 </div>
