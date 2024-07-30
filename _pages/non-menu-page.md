@@ -3,9 +3,6 @@ permalink: /
 title: " "
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 <p style="font-family:Arial"> I am a S.V. Ciriacy-Wantrup postdoctoral fellow at UC Berkeley ARE. Starting fall of 2025, I will be an assistant professor at the Frank Batten School of Leadership and Public Policy at the University of Virginia.</p>
