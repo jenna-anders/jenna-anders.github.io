@@ -3,6 +3,7 @@ permalink: /testing
 title: " "
 excerpt: "About me"
 author_profile: true
+js: jquery.min
 redirect_from: 
   - /testing/
 ---
