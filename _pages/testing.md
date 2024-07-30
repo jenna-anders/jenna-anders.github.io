@@ -46,7 +46,6 @@ redirect_from:
   <div class="text">Yosemite National Park</div>
 </div>
 
-</div>
 <br>
 
 
