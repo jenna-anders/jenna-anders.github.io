@@ -57,6 +57,7 @@ redirect_from:
 </div>
 
 <script>
+  console.log(4)
 let slideIndex = 0;
 showSlides();
 
