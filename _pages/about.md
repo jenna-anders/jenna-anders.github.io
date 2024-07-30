@@ -24,8 +24,3 @@ redirect_from:
 
 <br>
 
-
-</body>
-</html> 
-
-
