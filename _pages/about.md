@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<p style="font-family:Arial"> I am a S.V. Ciriacy-Wantrup postdoctoral fellow at UC Berkeley ARE. Starting fall of 2025, I will be an assistant professor at the Frank Batten School of Leadership and Public Policy at the University of Virginia.
+<p style="font-family:Arial"> I am a S.V. Ciriacy-Wantrup postdoctoral fellow at UC Berkeley ARE. Starting fall of 2025, I will be an assistant professor at the Frank Batten School of Leadership and Public Policy at the University of Virginia.</p>
 
-I received my PhD in economics from Harvard in 2024, and my B.A. in economics and environmental studies from Brown University in 2016.
+<p style="font-family:Arial"> I received my PhD in economics from Harvard in 2024, and my B.A. in economics and environmental studies from Brown University in 2016.</p>
 
-My research interests are in public economics and environmental economics. I'm particularly interested in regulation and social and environmental programs.
+<p style="font-family:Arial"> My research interests are in public economics and environmental economics. I'm particularly interested in regulation and social and environmental programs.</p>
 
-My CV can be found <a href="http://jenna-anders.github.io/files/Anders_CV_2023.pdf" target="_blank">here</a>.
+<p style="font-family:Arial"> My CV can be found <a href="http://jenna-anders.github.io/files/Anders_CV_2023.pdf" target="_blank">here</a>.
 
 </p>
 
@@ -27,70 +27,6 @@ My CV can be found <a href="http://jenna-anders.github.io/files/Anders_CV_2023.p
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {box-sizing: border-box;}
-body {font-family: Verdana, sans-serif;}
-.mySlides {display: none;}
-img {vertical-align: middle;}
-
-/* Slideshow container */
-.slideshow-container {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
-}
-
-/* Caption text */
-.text {
-  color: #000000;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #000000;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
-/* On smaller screens, decrease text size */
-@media only screen and (max-width: 300px) {
-  .text {font-size: 11px}
-}
-</style>
 </head>
 <body>
 
