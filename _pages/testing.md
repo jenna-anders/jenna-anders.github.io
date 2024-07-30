@@ -16,7 +16,7 @@ redirect_from:
 
 <p style="font-family:Arial"> My research interests are in public economics and environmental economics. I'm particularly interested in regulation and social and environmental programs.</p>
 
-<p style="font-family:Arial"> TEST2 My CV can be found <a href="http://jenna-anders.github.io/files/Anders_CV_2023.pdf" target="_blank">here</a>.
+<p style="font-family:Arial"> TEST3 My CV can be found <a href="http://jenna-anders.github.io/files/Anders_CV_2023.pdf" target="_blank">here</a>.
 
 </p>
 
@@ -51,6 +51,7 @@ redirect_from:
 <br>
 
 
+{% if page.js %}
 <script>
 let slideIndex = 0;
 showSlides();
@@ -72,6 +73,7 @@ function showSlides() {
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
+{% endif %}
 
 </body>
 </html> 
