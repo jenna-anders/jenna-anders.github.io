@@ -3,7 +3,9 @@ permalink: /testing
 title: " "
 excerpt: "About me"
 author_profile: true
-js: _main.js
+js: 
+  - _main.js
+  - vendor/jquery/jquery-1.12.4.min.js
 redirect_from: 
   - /testing/
 ---
@@ -14,7 +16,7 @@ redirect_from:
 
 <p style="font-family:Arial"> My research interests are in public economics and environmental economics. I'm particularly interested in regulation and social and environmental programs.</p>
 
-<p style="font-family:Arial"> TEST My CV can be found <a href="http://jenna-anders.github.io/files/Anders_CV_2023.pdf" target="_blank">here</a>.
+<p style="font-family:Arial"> TEST2 My CV can be found <a href="http://jenna-anders.github.io/files/Anders_CV_2023.pdf" target="_blank">here</a>.
 
 </p>
 
