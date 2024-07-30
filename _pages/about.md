@@ -16,18 +16,7 @@ My research interests are in public economics and environmental economics. I'm p
 
 My CV can be found <a href="http://jenna-anders.github.io/files/Anders_CV_2023.pdf" target="_blank">here</a>.
 
-### References 
 
-
-<p><strong>Nathaniel Hendren</strong><br><a href="mailto:nhendren@mit.edu">nhendren@mit.edu</a></p>{: .notice}
-
-
-
-<p><strong>Jesse Shapiro</strong><br><a href="mailto:jesse_shapiro@fas.harvard.edu">jesse_shapiro@fas.harvard.edu</a></p>{: .notice}
-
-
-
-<p><strong>Lawrence Katz</strong><br><a href="mailto:lkatz@harvard.edu">lkatz@harvard.edu</a></p>{: .notice}
 
 <br>
 
