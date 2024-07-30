@@ -43,7 +43,7 @@ redirect_from:
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="images/bird.jpg" style="width:30%">
+  <img src="images/bird.jpeg" style="width:30%">
   <div class="text">Caption Two</div>
 </div>
 
