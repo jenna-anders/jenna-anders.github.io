@@ -1,11 +1,10 @@
 ---
-permalink: /
+permalink: /testing
 title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /testing/
 ---
 
 <p style="font-family:Arial"> I am a S.V. Ciriacy-Wantrup postdoctoral fellow at UC Berkeley ARE. Starting fall of 2025, I will be an assistant professor at the Frank Batten School of Leadership and Public Policy at the University of Virginia.</p>
@@ -29,9 +28,6 @@ redirect_from:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-
-<!-- <h2>Automatic Slideshow</h2> 
-<p>Change image every 2 seconds:</p> -->
 
 <div class="slideshow-container">
 
