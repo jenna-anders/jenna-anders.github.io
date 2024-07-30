@@ -24,7 +24,6 @@ My CV can be found <a href="http://jenna-anders.github.io/files/Anders_CV_2023.p
 
 <br>
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
