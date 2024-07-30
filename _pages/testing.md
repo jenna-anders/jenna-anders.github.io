@@ -24,13 +24,13 @@ redirect_from:
 
 <br>
 
+test
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-
-<div class="slideshow-container">
 
 <div class="mySlides fade">
   <img src="images/fortwitter.jpeg" style="width:30%">
@@ -49,7 +49,7 @@ redirect_from:
 
 </div>
 <br>
-test
+
 
 <script>
 let slideIndex = 0;
