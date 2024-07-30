@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /non-menu-page/
 title: " "
 excerpt: "About me"
 author_profile: true
