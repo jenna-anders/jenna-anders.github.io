@@ -83,7 +83,7 @@ author:
   name             : "Jenna Anders"
   avatar           : "me.jpg"
   bio              : "Postdoctoral Fellow, UC Berkeley ARE"
-  location         : "Berkeley, C.A."
+  location         : "Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -308,4 +308,4 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+    envs: development 
