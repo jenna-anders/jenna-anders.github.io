@@ -20,7 +20,22 @@ redirect_from:
 
 <br>
 
-<p style="text-align:center; margin-top:100px"><img src="images/fortwitter.jpeg" alt="Test" width="300" height="auto"> </p>
+<div id="slideshow" style="text-align:center; margin-top:100px;">
+  <img class="slide" src="images/fortwitter.jpeg" style="width:300px; height:auto; position:absolute; opacity:1; transition: opacity 1s;">
+  <img class="slide" src="images/bird.jpeg" style="width:300px; height:auto; position:absolute; opacity:0; transition: opacity 1s;">
+  <img class="slide" src="images/yosemite.jpeg" style="width:300px; height:auto; position:absolute; opacity:0; transition: opacity 1s;">
+</div>
+
+<script>
+  const slides = document.querySelectorAll('#slideshow .slide');
+  let current = 0;
+
+  setInterval(() => {
+    slides[current].style.opacity = 0;
+    current = (current + 1) % slides.length;
+    slides[current].style.opacity = 1;
+  }, 5000);
+</script>
 
 <br>
 
