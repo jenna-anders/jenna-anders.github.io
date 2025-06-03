@@ -21,9 +21,9 @@ redirect_from:
 <br>
 
 <div id="slideshow-wrapper" style="position: relative; width: 300px; height: 400px; margin: 100px auto; text-align: center;">
-  <img class="slide" src="images/image1.jpeg" style="width:100%; height:auto; position:absolute; top:0; left:0; opacity:1; transition: opacity 1s;">
-  <img class="slide" src="images/image2.jpeg" style="width:100%; height:auto; position:absolute; top:0; left:0; opacity:0; transition: opacity 1s;">
-  <img class="slide" src="images/image3.jpeg" style="width:100%; height:auto; position:absolute; top:0; left:0; opacity:0; transition: opacity 1s;">
+  <img class="slide" src="images/fortwitter.jpeg" style="width:100%; height:auto; position:absolute; top:0; left:0; opacity:1; transition: opacity 1s;">
+  <img class="slide" src="images/bird.jpeg" style="width:100%; height:auto; position:absolute; top:0; left:0; opacity:0; transition: opacity 1s;">
+  <img class="slide" src="images/yosemite.jpeg" style="width:100%; height:auto; position:absolute; top:0; left:0; opacity:0; transition: opacity 1s;">
 </div>
 
 <script>
