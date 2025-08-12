@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jenna Anders"
 title_separator          : "-"
 name                     : &name "Jenna Anders"
-description              : &description "Postdoctoral Fellow, UC Berkeley ARE"
+description              : &description "Assistant Professor, University of Virginia (Batten)"
 url                      : https://jenna-anders.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jenna-anders/jenna-anders.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jenna Anders"
   avatar           : "me.jpg"
-  bio              : "Postdoctoral Fellow, UC Berkeley ARE"
-  location         : "Berkeley, CA"
+  bio              : "Assistant Professor, University of Virginia (Batten)"
+  location         : "Charlottesville, VA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jennaanders@berkeley.edu"
+  email            : "msh9kj@virginia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
