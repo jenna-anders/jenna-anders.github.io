@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 <p style="font-size:20px; margin-top: 60px; "> <a href="http://jenna-anders.github.io/files/ar_eligibility.pdf" target="_blank">"The Welfare Effects of Eligibility Expansions: Theory and Evidence from SNAP"</a> (with Charlie Rafkin) </p>
-<p style="font-size:14px; margin-top:-20px; margin-bottom:1 px;"> Conditionally accepted at American Economic Journal: Economic Policy </p>
+<p style="font-size:14px; margin-top:-20px; margin-bottom:1 px;"> American Economic Journal: Economic Policy, Forthcoming </p>
 <p style="font-size:10px; margin-top:1 px; margin-bottom:-20 px;"> <a href="http://jenna-anders.github.io/files/ar_collatedSNAPsurvey.pdf" target="_blank">Click here </a> for survey instrument, and <a href="https://docs.google.com/spreadsheets/d/13xdsN8HdbkhG0G4r_B9565gLLCgGQe_dEYt0TQFqcvA/edit?gid=401039404#gid=401039404" target="_blank">click here </a> for literature review details. </p>
 
 
