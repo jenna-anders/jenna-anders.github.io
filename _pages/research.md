@@ -17,7 +17,7 @@ author_profile: true
 <br>
 
 ## Work in Progress
-<p style="font-size:20px; "> <a href="http://jenna-anders.github.io/files/ac_epa1.pdf" target="_blank">"Central Authority in Local Regulation: A Sufficient Statistic for Welfare and an Application to Environmental Economics"</a> (with Romaine Campbell) </p>
+<p style="font-size:20px; "> <a href="http://jenna-anders.github.io/files/ac_epa1.pdf" target="_blank">"Central Authority in Local Regulation: A Sufficient Statistic for Welfare and an Application to Environmental Enforcement"</a> (with Romaine Campbell) </p>
 <p style="font-size:14px; margin-top:-20px; ">  <b>(Job Market Paper)</b> In Progress </p>
 
 > <p style="font-size:12px;"> Federal and state agencies often enforce the same regulations, raising a central question: Are state and federal enforcement complements or substitutes? We show empirically that a stronger federal agency increases state penalties for environmental violations and use a bargaining model to derive a sufficient statistics test that signs the welfare effect of this change. In Clean Air Act enforcement, state-issued penalties fell after 2011 federal budget cuts, with 24% larger reductions among facilities with high ex ante exposure to federal enforcement. In a state superfund program, firm-led cleanups overseen by the state were slower under Republican presidential administrations, when federal enforcement is more lenient, but state-led cleanups were not. The results imply that over one-third of the federal Environmental Protection Agency’s total effect on enforcement is through spillovers to states. The sufficient statistics test suggests that stronger federal enforcement power would increase states’ welfare in this context.</p>
@@ -34,5 +34,5 @@ author_profile: true
 
 <p></p>
 
-<p style="font-size:20px; margin-top:40px; ">"Superfund Sites and Cancer Incidence" (with Rachel Young) </p>
+<p style="font-size:20px; margin-top:40px; ">"Superfund Sites and Cancer Incidence" (with Graeme Peterson and Rachel Young) </p>
 <p style="font-size:14px; margin-top:-20px;  margin-bottom:-20px;">  In Progress </p>
